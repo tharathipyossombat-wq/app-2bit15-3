@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name": "vivo x300 Pro",
+        "image": "https://media-cdn.bnn.in.th/547459/vivo-smartphone-x300pro-16512gb-phantom-black-5g-01-square_medium.jpg",
+        "price": 36999
+    },
+    {
+        "id":2,
+        "name": "iphone 17 pro max",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbaVzYUancJtsLxBYU3K-jiOowbV_iGvUEWfO4VgxIWFfOM8ZX5fD3PEY&s=10",
+        "price": 36280
+    },
+    {
+        "id":3,
+        "name": "oppo reno 16",
+        "image": "https://res.cloudinary.com/itcity-production/image/upload/f_jpg,q_80,w_1000/v1781840523/products/PRD202606011685/skus/zg533kdhnmgnk5zf4ftp.jpg",
+        "price": 19999
+    },
+    {
+        "id":4,
+        "name": "samsung s25 ultra",
+        "image": "https://www.jib.co.th/img_master/product/original/2025012916071574009_1.jpg",
+        "price": 30900
+    },
+    {
+        "id":5,
+        "name": "poco x8 pro",
+        "image": "https://imgproxy.onliner.by/42So8R7LFrWcsC6hiH8oSj_xWNmQbANrfkpgJNXmLfk/w:700/h:550/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2UvMjAyNi8z/ZDVlNGNjNjkwMDM4/ZGQyMjNiMDVlN2Iz/ZmQxYzQzNi5qcGc",
+        "price": 14999
+    },
+    {
+        "id":6,
+        "name": "vivo yo4",
+        "image": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1742976374116/98319211b0692de4234d82bfdc588b7e.png",
+        "price": 3299
+    },
+    {
+        "id":7,
+        "name": "realme note 80",
+        "image": "https://static-jaymart.com/ecom/public/3AkZ6SDpcD0ywWDCyujkEMYN3md.jpg",
+        "price": 4599
+    },
+    {
+        "id":8,
+        "name": "infnix hot 60 pro",
+        "image": "https://static-jaymart.com/ecom/public/2zceE4GM1b3sLoIwUKEi0h42Ftb.jpg",
+        "price": 4999
+    },
+    {
+        "id":9,
+        "name": "iphone 16",
+        "image": "https://res.cloudinary.com/spvi-production/image/upload/w_800,h_800,c_fill,f_auto,q_auto/v1769160235/product/product-master/iPhone_16_Pink_PDP_Image_Position_1a_Pink_Color__TH-TH_wadyy0.jpg",
+        "price": 30900
+    },
+    {
+        "id":10,
+        "name": "oppo find x10",
+        "image": "https://www.ais.th/content/ais/th/th_th/consumers/promotions/recommend/oppo/oppo-find-x10-series/_jcr_content/root/container_1816311984/aiscontainer_1184240_460362490/aiscontainer/columncontrol/content2/aiscontainer_v2_copy/aiscontainer_copy_co/image_copy_copy_copy.coreimg.png/1791526064456/oppo-find-x10-promax-device-ldp-product-images-back-rgb2.png",
+        "price": 43999
+    }
+]
